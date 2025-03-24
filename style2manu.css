@@ -1,0 +1,102 @@
+html, body {
+    height: 100%;
+    margin: 0; 
+    overflow-x: hidden; 
+}
+
+.cont8{
+  
+   width: 100%;
+   background-color: #05213C;
+   display: flex;
+   margin: 0px;
+   padding: 20px;
+   position: relative;
+   
+}
+.border-dotted-light{
+    border: dotted 1px rgb(252, 253, 252);
+}
+.cont7{
+    position: absolute;
+    height: 500px;
+    max-width: 100%;
+    border-radius: 5px;
+}
+.cont8 h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.services{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.services span{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.button{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid #FFD700;
+}
+.row .col-lg-4 img{
+    height: 500px;
+    width: 100%;
+   
+    
+}
+.row .col-lg-8 h5{
+    margin-left: 20px;
+  
+}
+.row .col-lg-8 h1{
+    margin-left: 20px;
+}
+.con35{
+    border: 2px solid black;
+    height: 250px;
+    width: 100%;
+    background-color: #05213C;
+    color: white;
+    padding: 20px;
+}
+.con35:hover{
+    background-color: rgb(88, 92, 29);
+    
+}
+.conthh{
+    align-items: center;
+    text-align: center;
+}
+.mainnd img{
+    margin: 0px 10px;
+
+}
+.contdd{
+    padding-left: 100px;
+    align-items: center;
+    
+    
+}
+.boxxx{
+    height: 20px;
+    width: 100%;
+}
+.boxs{
+    border: 2px solid white;
+    height: 100px;
+    width: 100px;
+}
+.cont177 ul li{
+    list-style-type: none;
+}
